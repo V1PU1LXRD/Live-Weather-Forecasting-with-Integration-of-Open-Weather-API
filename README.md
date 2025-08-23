@@ -32,7 +32,7 @@ This project is a responsive weather forecasting website built using **JSP**, **
 - [WebApp Screenshot 3](./MumbaiSS.png)
 
 ## Raw Web App Video(MP4)
--[Download the Raw Video !?](./LiveWeatherForecastingAPIGlobal2.mp4)
+-[Download the Raw Video !!](./LiveWeatherForecastingAPIGlobal2.mp4)
 
 ## Author
 - [Vipul Kanhere](https://github.com/V1PU1LXRD)
