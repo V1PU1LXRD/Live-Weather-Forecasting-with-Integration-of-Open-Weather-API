@@ -11,11 +11,10 @@ This project is a responsive weather forecasting website built using **JSP**, **
 ## Technologies Used
 - JSP
 - HTML & CSS
-- JSON
 - OpenWeather API
 - Java EE Ecplise/ Java EE Luna
-- Apache Tomcat
-- JSON Libraries
+- Apache Tomcat 7.0(Preferred)
+- JSON Simple Library(Preferred)
 
 ## How to Run
 1. Clone this repository:
