@@ -16,4 +16,4 @@ This project is a responsive weather forecasting website built using **JSP**, **
 
 ## How to Run
 1. Clone this repository:
- https://github.com/V1PU1LXRD/live-weather-forecasting-openweather-jsp.git
+ https://github.com/V1PU1LXRD/Live-Weather-Forecasting-with-Integration-of-Open-Weather-API.git
