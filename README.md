@@ -22,7 +22,9 @@ This project is a responsive weather forecasting website built using **JSP**, **
 4. Deploy and access `weather.jsp`.
 
 ## Screenshots
-- [WebApp Screenshots](./AssamSS.png)
+- [WebApp Screenshot 1](./AssamSS.png)
+- [WebApp Screenshot 2](./BrazilSS.png)
+- [WebApp Screenshot 3](./MumbaiSS.png)
 
 ## Author
 - [Vipul Kanhere](https://github.com/V1PU1LXRD)
