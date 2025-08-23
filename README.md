@@ -17,3 +17,16 @@ This project is a responsive weather forecasting website built using **JSP**, **
 ## How to Run
 1. Clone this repository:
  https://github.com/V1PU1LXRD/Live-Weather-Forecasting-with-Integration-of-Open-Weather-API.git
+2. Set up your local server (e.g., Apache Tomcat).
+3. Configure your OpenWeather API key in the code.
+4. Deploy and access `weather.jsp`.
+
+## Screenshots
+![App Screenshot](./assets/screenshot.png)
+
+## Author
+- [Your Name](https://github.com/V1PU1LXRD)
+
+## License
+APACHE TOMCAT
+
