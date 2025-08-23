@@ -13,18 +13,26 @@ This project is a responsive weather forecasting website built using **JSP**, **
 - HTML & CSS
 - JSON
 - OpenWeather API
+- Java EE Ecplise/ Java EE Luna
+- Apache Tomcat
+- JSON Libraries
 
 ## How to Run
 1. Clone this repository:
  https://github.com/V1PU1LXRD/Live-Weather-Forecasting-with-Integration-of-Open-Weather-API.git
-2. Set up your local server (e.g., Apache Tomcat).
-3. Configure your OpenWeather API key in the code.
-4. Deploy and access `weather.jsp`.
+2. Set up your Java EE Eclipse/ Java EE Luna 
+3. Set up your local server (e.g., Apache Tomcat).
+4. Set up the JSON libraries
+5. Configure your OpenWeather API key in the code.
+6. Deploy and access `weather.jsp`.
 
 ## Screenshots
 - [WebApp Screenshot 1](./AssamSS.png)
 - [WebApp Screenshot 2](./BrazilSS.png)
 - [WebApp Screenshot 3](./MumbaiSS.png)
+
+## Raw Web App Video(MP4)
+-[Download the Raw Video !?](./LiveWeatherForecastingAPIGlobal2.mp4)
 
 ## Author
 - [Vipul Kanhere](https://github.com/V1PU1LXRD)
