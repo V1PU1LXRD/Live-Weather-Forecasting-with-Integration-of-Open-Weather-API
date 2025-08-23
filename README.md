@@ -24,7 +24,7 @@ This project is a responsive weather forecasting website built using **JSP**, **
 3. Set up your local server (e.g., Apache Tomcat).
 4. Set up the JSON libraries
 5. Configure your OpenWeather API key in the code.
-6. Deploy and access `weather.jsp`.
+6. Deploy and access [weather.jsp](./weather.jsp)
 
 ## Screenshots
 - [WebApp Screenshot 1](./AssamSS.png)
