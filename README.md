@@ -22,7 +22,7 @@ This project is a responsive weather forecasting website built using **JSP**, **
 2. Set up your Java EE Eclipse/ Java EE Luna 
 3. Set up your local server (e.g., Apache Tomcat).
 4. Set up the JSON libraries
-5. Configure your OpenWeather API key in the code.
+5. Configure your OpenWeather API key in the provided code below.
 6. Deploy and access [weather.jsp](./weather.jsp)
 
 ## Screenshots
