@@ -1,6 +1,6 @@
 # Live Weather Forecasting Website
 
-This project is a responsive weather forecasting website built using **JSP**, **HTML**, **CSS**, and **JSON**. It integrates the [OpenWeather API](https://openweathermap.org/api) to provide real-time weather updates for any location.
+This project is a responsive weather forecasting website built using **JSP**, **HTML**, **CSS**, and **JSON Simple Libraries**. It integrates the [OpenWeather API](https://openweathermap.org/api) to provide real-time weather updates for any location.
 
 ## Features
 - Search weather by city name
