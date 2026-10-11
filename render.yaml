@@ -11,7 +11,8 @@ services:
     plan: free
     region: singapore
     healthCheckPath: /
-    autoDeploy: true
+    # Deploy on every push to the linked branch (replaces deprecated autoDeploy).
+    autoDeployTrigger: commit
     envVars:
       # `sync: false` prompts for the value in the dashboard instead of
       # reading it from the repo, so the key never lands in git history.
