@@ -1,0 +1,10 @@
+# Keep shell scripts and build files LF-only. With core.autocrlf=true a Windows
+# checkout would otherwise turn docker/setenv.sh into CRLF, and the container
+# fails with "/bin/sh^M: bad interpreter".
+* text=auto eol=lf
+*.sh   text eol=lf
+
+# Never touch these
+*.png  binary
+*.mp4  binary
+*.jpg  binary

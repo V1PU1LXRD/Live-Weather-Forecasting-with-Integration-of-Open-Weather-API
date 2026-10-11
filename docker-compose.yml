@@ -1,0 +1,13 @@
+# Local preview:  OPENWEATHER_API_KEY=your_key docker compose up --build
+# then open http://localhost:8080
+services:
+  web:
+    build: .
+    image: live-weather-forecasting:local
+    ports:
+      - "8080:8080"
+    environment:
+      # Read from your shell / a .env file. Never commit a real key.
+      OPENWEATHER_API_KEY: ${OPENWEATHER_API_KEY:-}
+      # Point at a stub server to test the UI without spending API calls.
+      # OPENWEATHER_BASE_URL: http://host.docker.internal:9999

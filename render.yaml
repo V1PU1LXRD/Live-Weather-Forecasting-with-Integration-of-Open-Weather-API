@@ -1,0 +1,19 @@
+# Render Blueprint — https://render.com/docs/blueprint-spec
+#
+# Deploy: Render Dashboard -> New -> Blueprint -> pick this repo.
+# Render reads this file, builds the Dockerfile, and asks you for the
+# OPENWEATHER_API_KEY value (never stored in git).
+services:
+  - type: web
+    name: live-weather-forecasting
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    region: singapore
+    healthCheckPath: /
+    autoDeploy: true
+    envVars:
+      # `sync: false` prompts for the value in the dashboard instead of
+      # reading it from the repo, so the key never lands in git history.
+      - key: OPENWEATHER_API_KEY
+        sync: false

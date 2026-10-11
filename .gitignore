@@ -1,0 +1,24 @@
+# Secrets — the API key is read from the environment, never from a file
+.env
+.env.local
+*.env
+!*.env.example
+
+# Build / server output
+target/
+build/
+out/
+*.war
+*.class
+apache-tomcat*/
+*.log
+
+# Editors & OS
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
